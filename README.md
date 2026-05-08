@@ -36,6 +36,11 @@ In this project:
 * MySQL handles database storage
 
 ---
+# 🏗️ Two-Tier Application Architecture
+
+![Two-Tier Architecture](https://github.com/avinashpandey404/two-tier-flask-app-k8s/blob/main/two-tier.png)
+
+---
 
 # 🏗️ Complete Architecture
 
